@@ -9,12 +9,12 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "postinstall": "chmod +x ./node_modules/.bin/vite"
-   
   },
   "dependencies": {
     "dom": "^0.0.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.2",
     "router": "^2.2.0"
   },
   "devDependencies": {
